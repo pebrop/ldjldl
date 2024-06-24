@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: arial;
+    color: white;
+}
+
+body {
+    background-size: cover;
+   
+}
+
+
+.chalu {
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    height: 15vh;
+}
+
+.t1 {
+    color: white;
+    font-family: arial;
+    text-align: center;
+}
+
+.it{
+margin-top: 30vh;
+    display: flex;
+    justify-content: center;
+}
+
+label{
+  margin-right: 30px;
+}
+
+
+.btn{
+    background-color: green;
+    color: white;
+    position: absolute;
+    left: 47vw;
+
+    top: 60vh;
+    width: 130px;
+    height: 40px;
+}
